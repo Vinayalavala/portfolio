@@ -17,7 +17,7 @@ const Techstack = () => {
                   <img
                     src={company.img}
                     alt={company.name}
-                    className="w-20 pb-10"
+                    className="w-14 pb-10"
                   />
                 </div>
               </React.Fragment>
