@@ -7,7 +7,7 @@ const Techstack = () => {
     <section className='p-10'>
       <div className="flex flex-col items-center py-20 " id="techstack">
         <h1 className="heading">My{' '}
-        <span className="text-purple">TechStack</span>
+        <span className="text-purple">Tech Stack</span>
         </h1>
 
           <div className="items-center justify-center gap-10 mt-16 flex flex-wrap py-2">
