@@ -10,7 +10,7 @@ const Techstack = () => {
         <span className="text-purple">Tech-Stack</span>
         </h1>
 
-          <div className="items-center justify-center ml-10 md:gap-10 gap-6 mt-16 grid grid-cols-4 00 py-2">
+          <div className="items-center justify-center gap-10 mt-16 flex flex-wrap py-2">
             {companies.map((company) => (
               <React.Fragment key={company.id}>
                 <div className=" gap-2 justify-center">
