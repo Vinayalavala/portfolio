@@ -165,6 +165,31 @@ export const companies = [
     img: "/re.svg",
     nameImg: "",
   },
+  {
+    id: 9,
+    name: "Node",
+    img: "/node.svg",
+    nameImg: "",
+  },
+  {
+    id: 10,
+    name: "Express.",
+    img: "/express.svg",
+    nameImg: "",
+  },
+  {
+    id: 11,
+    name: "MongoDB",
+    img: "/mongo.svg",
+    nameImg: "",
+  },
+  {
+    id: 12,
+    name: "SQL",
+    img: "/sql.svg",
+    nameImg: "",
+  },
+  
 ];
 
 export const workExperience = [
