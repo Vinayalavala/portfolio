@@ -101,7 +101,7 @@ export const projects = [
     des: "A seamless ride-booking app that connects passengers with drivers for quick and easy transportation.",
     img: "/files.svg",
     iconLists: ["/mongo.svg", "/express.svg", "/re.svg", "/node.svg", "/tail.svg"],
-    link: "https://proquil.vercel.app/login",
+    link: "https://github.com/Vinayalavala/Uber_clone",
   },
   
   
