@@ -107,7 +107,7 @@ export const Education = [
   },
   {
     percent:
-      "CGPA - 8.39",
+      "CGPA - 8.41",
     name: "Dr.M.G.R Educational and Research Institute",
     duration: "2021 - 2025",
     city:'Chennai, Tamilnadu',
