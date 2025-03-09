@@ -99,7 +99,7 @@ export const projects = [
     id: 4,
     title: "Ride booking Application",
     des: "A seamless ride-booking app that connects passengers with drivers for quick and easy transportation.",
-    img: "/files.svg",
+    img: "/file.svg",
     iconLists: ["/mongo.svg", "/express.svg", "/re.svg", "/node.svg", "/tail.svg"],
     link: "https://github.com/Vinayalavala/Uber_clone",
   },
