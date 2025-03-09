@@ -50,7 +50,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently working on Eye state classification project using ML",
+    title: "Currently working on Food Delivery Application using Java Stack",
     description: "Present Progress",
     className: "md:col-span-3 md:row-span-4 lg:col-span-3 lg:row-span-5",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
