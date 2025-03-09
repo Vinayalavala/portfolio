@@ -87,6 +87,24 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/redis.svg", "/re.svg"],
     link: "https://proquil.vercel.app/login",
   },
+  {
+    id: 3,
+    title: "MERN_CHAT",
+    des: "Enhance your one-on-one messaging with MERN_CHAT. Effortlessly connect with colleagues and friends.",
+    img: "/p22.svg",
+    iconLists: ["/mongo.svg", "/express.svg", "/re.svg", "/node.svg", "/tail.svg"],
+    link: "https://github.com/Vinayalavala/MERN_CHAT",
+  },
+  {
+    id: 4,
+    title: "Ride booking Application",
+    des: "A seamless ride-booking app that connects passengers with drivers for quick and easy transportation.",
+    img: "/files.svg",
+    iconLists: ["/mongo.svg", "/express.svg", "/re.svg", "/node.svg", "/tail.svg"],
+    link: "https://proquil.vercel.app/login",
+  },
+  
+  
 ];
 
 export const Education = [
