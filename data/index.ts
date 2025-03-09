@@ -83,9 +83,9 @@ export const projects = [
     id: 2,
     title: "Quill. - One on one Messaging App ",
     des: "Simplify your One on One Messaging experience with Quill. Seamlessly connect with colleagues and friends.",
-    img: "/p2 2.svg",
+    img: "/p22.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/redis.svg", "/re.svg"],
-    link: "https://quill-eta-six.vercel.app/dashboard",
+    link: "https://proquil.vercel.app/login",
   },
 ];
 
